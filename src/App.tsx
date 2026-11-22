@@ -612,7 +612,7 @@ export default function App() {
       <footer className="border-t border-slate-900 bg-slate-950 py-6 mt-auto">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
           <div className="flex items-center gap-2">
-            <span className="font-semibold text-slate-400">Psač QWERTZ</span>
+            <span className="font-semibold text-slate-400">Prstíky</span>
             <span>·</span>
             <span>Česká škola psaní deseti prsty</span>
             <span>·</span>
