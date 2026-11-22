@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Psač QWERTZ – Česká škola psaní deseti prsty",
+  "description": "Interaktivní výuka psaní všemi deseti prsty na české klávesnici QWERTZ. Lekce s českou diakritikou, sledování rychlosti a úhozů v reálném čase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
